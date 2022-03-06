@@ -1,0 +1,51 @@
+h1 {
+    background-color: pink;
+    margin-left: 8%;
+    margin-right: 8%;
+    text-align: center;
+}
+
+.centre {
+    text-indent: 0%;
+    margin-left: 45%;
+    margin-right: 44%;
+    border-style: groove;
+    border-width: 10px;
+    border-color: red;  
+    width: 134px;
+    height: 199px;
+}
+
+p {
+    margin-left: 5%;
+    margin-right: 5%;
+    text-indent: 3%;
+}
+
+h2 {
+    background-color: purple;
+    color: white;
+}
+
+h3 {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+ul {
+    margin-left: 2%;
+    margin-right: 62%;
+    list-style: none;
+    border-left-style: solid;
+    border-left-width: 4px;
+    border-left-color: black;
+}
+
+li {
+    background-color: mediumseagreen;
+}
+
+ol li {
+    background-color: white;
+    font-size: 12px;
+}
