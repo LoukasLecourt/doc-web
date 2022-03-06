@@ -1,0 +1,26 @@
+body {
+    background-color: grey;
+}
+hr {
+    padding: 1%;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: red;
+    background-color: white;
+}
+
+h1 {
+    margin: 5%;
+    border-style: groove;
+    border-color: black;
+    color: red;
+    background-color: yellow;
+}
+
+h2 {
+    border-style: dotted;
+    padding: 5%;
+    border-width: 9px;
+    border-color: red;
+    background-color: aqua;
+}
