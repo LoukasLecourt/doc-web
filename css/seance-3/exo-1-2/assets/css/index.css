@@ -1,0 +1,38 @@
+#body{
+    margin-right: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-right-style: solid;
+    border-right-width: 4px;
+    border-right-color: black;
+}
+#titre1{
+    text-align: center;
+    font-size: xx-large;
+}
+#titre2{
+    background-color: mediumseagreen;
+    text-align: center;
+    color: white;
+}
+#titre3{
+    text-align: center;
+    background-color: forestgreen;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#paragraphe1{
+    text-align: right;
+    font-style: italic;
+}
+#paragraphe2{
+    text-indent: 3%;
+}
+#paragraphe3{
+    text-transform: capitalize;
+    white-space: pre-line;
+    padding-right: 57%;
+}
+#paragraphe4{
+    color: red;
+}
